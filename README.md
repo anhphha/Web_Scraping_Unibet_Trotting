@@ -29,7 +29,7 @@ This project uses Python 3 and a few libraries like requests, Selenium, and opti
 Make sure you have a stable internet connection — the scraper fetches live data from Unibet's servers.
 
 
-##⚠️ Disclaimer
+## ⚠️ Disclaimer
 This project is intended for educational and personal research purposes only.
 It is not affiliated with, endorsed by, or associated with Unibet or any of its partners.
 Please ensure your use of this scraper complies with Unibet’s terms of service.
