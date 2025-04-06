@@ -6,8 +6,8 @@ The scraper focuses on extracting up-to-date odds data for **Trotting competitio
 
 ### ✨ Features
 - Scrapes odds directly from Unibet's Trotting betting page
-- Organizes data into a structured format (CSV, database, or other)
-- Can be scheduled for regular data collection
+- Organizes data into a structured format (table format)
+- Can be automated for continuous data collection
 - Lightweight and easy to customize for different competitions or countries
 
 ### 🎯 Target URL
@@ -20,7 +20,7 @@ The scraper focuses on extracting up-to-date odds data for **Trotting competitio
    git clone https://github.com/your-username/unibet-trotting-odds-scraper.git
    cd unibet-trotting-odds-scraper
 2. **Install dependencies**
-This project uses Python 3 and a few libraries like requests, Selenium, and optionally pandas for data handling.
+This project uses Python 3 and a few libraries like ´´'requests´´´, Selenium, and optionally pandas for data handling.
    ```bash
     pip install -r requirements.txt
 3. **Check Environment**
