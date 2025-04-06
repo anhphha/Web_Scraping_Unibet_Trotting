@@ -13,8 +13,6 @@ The scraper focuses on extracting up-to-date odds data for **Trotting competitio
 ### 🎯 Target URL
 > [https://www.unibet.com/betting/sports/filter/trotting/sweden/all/competitions](https://www.unibet.com/betting/sports/filter/trotting/sweden/all/competitions)
 
----
-
 ## 🚀 Setup
 
 1. **Clone this repository**  
